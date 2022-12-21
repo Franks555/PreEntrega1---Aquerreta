@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PreEntrega1---Aquerreta/build/static/css/main.83cd6dc7.css",
+    "main.js": "/PreEntrega1---Aquerreta/build/static/js/main.70f2dace.js",
+    "static/js/787.ece3d47f.chunk.js": "/PreEntrega1---Aquerreta/build/static/js/787.ece3d47f.chunk.js",
+    "static/media/logo.png": "/PreEntrega1---Aquerreta/build/static/media/logo.205b7ee58b524617d2b5.png",
+    "index.html": "/PreEntrega1---Aquerreta/build/index.html",
+    "main.83cd6dc7.css.map": "/PreEntrega1---Aquerreta/build/static/css/main.83cd6dc7.css.map",
+    "main.70f2dace.js.map": "/PreEntrega1---Aquerreta/build/static/js/main.70f2dace.js.map",
+    "787.ece3d47f.chunk.js.map": "/PreEntrega1---Aquerreta/build/static/js/787.ece3d47f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83cd6dc7.css",
+    "static/js/main.70f2dace.js"
+  ]
+}
