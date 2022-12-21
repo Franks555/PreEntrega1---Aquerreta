@@ -1,0 +1,35 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.nav {
+    display: flex;
+    background-color: #E0F0FE;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    padding: 15px 2rem;
+
+}
+
+.nav img{
+width: 170px;
+}
+
+.nav ul{
+    width: 70%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 200px;
+    gap: 1rem;
+}
+
+.nav a{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: #01122E;
+
+}
