@@ -2,13 +2,6 @@ import React from 'react';
 import './styles/cartwidget.css';
 import { FiShoppingCart } from 'react-icons/fi';
 
-/*class Question extends React.Component {
-  render() {
-    return <FiShoppingCart />
-  }
-}
-*/
-
 const CartWidget = () => {
     return (
       <div className="carrito_compras">
